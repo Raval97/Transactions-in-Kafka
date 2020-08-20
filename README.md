@@ -3,11 +3,12 @@ Project testing the working of Transactions in Alpakka Kafka
 
 Example of working:
 
-Without transactions:
+  Without transactions:
 
 ![Image description](https://github.com/Raval97/Transactions-in-Kafka/blob/master/screens/6.png?raw=true)
 
-With transactions:
+  With transactions:
+
 ![Image description](https://github.com/Raval97/Transactions-in-Kafka/blob/master/screens/7.png?raw=true)
 
 
