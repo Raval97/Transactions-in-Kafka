@@ -1,6 +1,7 @@
 # Transactions-in-Kafka
 Project testing the working of Transactions in Alpakka Kafka 
-*Implemented in Scala 2.13.1 on Intellij IDEA Community 2020.1
+
+*Implemented in Scala 2.13.3, on Intellij IDEA Community 2020.1
 
 Example of working:
 
